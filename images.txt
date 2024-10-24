@@ -1,1 +1,1 @@
-k8s.gcr.io/kube-state-metrics/kube-state-metrics/ubuntu:18.04
+k8s.gcr.io/kube-state-metrics/kube-state-metrics/nvidia/cuda:11.0-base
